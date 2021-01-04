@@ -1,0 +1,28 @@
+footer * {
+    font-family: 'Rubik';
+
+}
+.footer-h5{
+    font-weight: 700;
+    font-family: 22px;
+    color:  rgb(212, 212, 212) !important;
+    padding-left: 10px;
+    border-left: 7px solid rgb(158, 155, 155);
+}
+.footer-p{
+    color: whitesmoke;
+    font-size: 15px;
+    opacity: 0.89;
+    
+    width: 180px;
+
+}
+.profile-link{
+    color: rgb(238, 238, 238);
+}
+a:hover{
+    text-decoration: none;
+    color: rgba(214, 212, 212, 0.719);
+
+    opacity: 0.8;
+}

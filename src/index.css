@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+
+.loader{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 999;
+
+}
+.error{
+    font-size: 12px;
+    color: red;
+    display: block;
+}
+.account-loader{
+    position:fixed;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    background-color:#fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
